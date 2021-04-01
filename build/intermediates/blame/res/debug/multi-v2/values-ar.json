@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\arisa\\Documents\\GitHub\\ed2_rooms_mapping\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\arisa\\.gradle\\caches\\transforms-2\\files-2.1\\09c1f5634c674c46b74176ad3d1ddced\\support-compat-28.0.0\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
